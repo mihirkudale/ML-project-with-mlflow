@@ -1,4 +1,4 @@
-artifact_uri: file:///C:/Users/sunny/mlflow/mlruns/0/ed4ed891f57446e9b5c9a772502c2c32/artifacts
+artifact_uri: file:///C:/Users/mihir/mlflow/mlruns/0/ed4ed891f57446e9b5c9a772502c2c32/artifacts
 end_time: 1687608551554
 entry_point_name: ''
 experiment_id: '0'
@@ -12,4 +12,4 @@ source_version: ''
 start_time: 1687608546669
 status: 3
 tags: []
-user_id: sunny
+user_id: mihir
